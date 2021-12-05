@@ -6,7 +6,7 @@ variable "region" {
 }
 
 variable "bucket_namespace" {
-    default = "saasops"
+    default = "devopsdba"
 }
 variable "bucket_name" {
     default = "resource_manager_demo_bucket"
